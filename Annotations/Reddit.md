@@ -3,7 +3,7 @@
     src="logo/reddit-logo.png"
     alt="Reddit"
     title="Reddit"
-    style="display: inline-block; margin: 0 auto; max-width: 100px">
+    style="display: inline-block; margin: 0 auto; max-width: 50px">
 </figure>
 
 ## [C++ developers - Need guidance](https://www.reddit.com/r/cpp/comments/182z5up/c_developers_need_guidance/)
